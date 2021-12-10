@@ -1,7 +1,1 @@
-   _                     __                         __ 
-  (_)_ _  ___  ___  ____/ /______ __ ___  ___  ____/ /_
- / /  ' \/ _ \/ _ \/ __/ __/ -_) \ // _ \/ _ \/ __/ __/
-/_/_/_/_/ .__/\___/_/  \__/\__/_\_\/ .__/\___/_/  \__/ 
-       /_/                        /_/                  
-
-This is the repository for the importexport-website.       
+This is the repository for the importexport-website.
